@@ -3,7 +3,8 @@
 This code helps in displaying Multiplication tables 
 
 Steps for execution:
-1. Clone this code 
+1. Clone this code
+   
 2.** Installing Node.js on Windows is straightforward. Here's a step-by-step guide:
 **
 Download Node.js:
